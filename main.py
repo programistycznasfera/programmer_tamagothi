@@ -5,13 +5,14 @@ import os
 import colorama
 import pymsgbox
 import json
+from colorama import *
 from pymsgbox import *
 # Player Stats
 Health = 100
 Sanity = 100
 Money = 100
 Hunger = 100
-Name = input("Input your name:")
+Name = input(Fore.LIGHTYELLOW_EX,"Input your name:")
 def show_help():
     """Funkcja wyświetlająca pomoc."""
     print("Avaible activities:")
