@@ -1,7 +1,8 @@
 # programmer_tamagothi
-✅Saves your gameplay
-✅Set name your character
+✅Saves your gameplay                                                                                                                                                              
+✅Set name your character                                                                                                                                                           
 ✅Statistics
+                                                                                                                                                                                
 -Hunger
 -Sanity
 -Money
